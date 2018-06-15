@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>Resources/tank.jpg</file>
+    </qresource>
+</RCC>
